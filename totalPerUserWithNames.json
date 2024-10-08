@@ -28,6 +28,9 @@
   "0x000e2FDA9185894EAEc5e5C6f9f16a941aCF071E": {
     "Hermes (Arbitrum)": "69531831998847843615716"
   },
+  "0x001088C88be46346ED99856dcfA3a00Da7AAf212": {
+    "Wrapped Ether (Arbitrum)": "935711455312751488"
+  },
   "0x00173C4cB23E6d876fcb036bA954A2F9cfCafA19": {
     "Hermes (Arbitrum)": "4393646528000000000",
     "Burnt Hermes (Arbitrum)": "3097520802000000000"
@@ -4147,7 +4150,8 @@
     "Maia (Arbitrum)": "7142558000000000"
   },
   "0x269055b0a775eA8c959F7b2D6C9bd06Cd41f2FB9": {
-    "Hermes (Arbitrum)": "292353490147546516627894"
+    "Hermes (Arbitrum)": "292353490147546516627894",
+    "Wrapped Ether (Arbitrum)": "15000000000000000"
   },
   "0x2694440343769E08b5faf1aBdE9ad99B6E93fcD0": {
     "Hermes (Arbitrum)": "416955290000000000"
@@ -5653,6 +5657,7 @@
   },
   "0x3431Bbbfdf64EbbF516b54293980d642B3D07867": {
     "Burnt Hermes (Arbitrum)": "117555478656989000000000",
+    "Wrapped Ether (Arbitrum)": "29581171226833616",
     "Wrapped Ether (Base)": "1920669527788647",
     "USDCoin (Base)": "461764"
   },
@@ -6913,7 +6918,8 @@
     "Hermes (Arbitrum)": "1249036628000000000"
   },
   "0x401671A7Ea7580260EfAfbB2CAd91203dbb675f0": {
-    "Burnt Hermes (Arbitrum)": "2788150886304119655113"
+    "Burnt Hermes (Arbitrum)": "2788150886304119655113",
+    "Wrapped Ether (Arbitrum)": "160412738789667"
   },
   "0x4024bDFEEdfd1CaE7d2D02250E33DBF0B3aC109F": {
     "Hermes (Arbitrum)": "605140700173000000000"
@@ -7191,6 +7197,7 @@
     "Hermes (Arbitrum)": "1535219096191655456312580",
     "Burnt Hermes (Arbitrum)": "529905747536233590522432",
     "Vote Maia (Arbitrum)": "200158290515223926679",
+    "Wrapped Ether (Arbitrum)": "374244985470191040",
     "USDCoin (Base)": "6150",
     "USDCoin (Optimism)": "8743"
   },
@@ -8021,7 +8028,8 @@
   },
   "0x4Ace3215754b56Aef7F5a994Dc5614Ca71432408": {
     "Hermes (Arbitrum)": "13255890957294139867047",
-    "Burnt Hermes (Arbitrum)": "9390838214745000000000"
+    "Burnt Hermes (Arbitrum)": "9390838214745000000000",
+    "Wrapped Ether (Arbitrum)": "225396024387582720"
   },
   "0x4Ad06c6bFAC635Ec55753293CA86d4E9F5514963": {
     "Burnt Hermes (Arbitrum)": "155409222489000000000"
@@ -8727,6 +8735,7 @@
   "0x50E92fd1f4A456b6669637635333C6275ada797d": {
     "Hermes (Arbitrum)": "501248223172487235985751",
     "Burnt Hermes (Arbitrum)": "3964863565821555201568",
+    "Wrapped Ether (Arbitrum)": "230000000000000000",
     "USDCoin (Ethereum)": "16107"
   },
   "0x50f4c704839a3B67CD73F914aEeDF8320Fbf2004": {
@@ -10903,6 +10912,9 @@
   "0x6542f4E37fa4269c2DB6AD9Bd3d51110fFb9e362": {
     "Maia (Arbitrum)": "2177457000000000"
   },
+  "0x654c13F97B2E7A760084CfF3f9A0Fd456dde8301": {
+    "Wrapped Ether (Arbitrum)": "37425685407234856"
+  },
   "0x6552A83d69e49A418EEEaaE4E1E3E5D8ee0402BE": {
     "Burnt Hermes (Arbitrum)": "1296305582227000000000"
   },
@@ -11139,6 +11151,9 @@
     "Hermes (Arbitrum)": "16655963036239000000000",
     "Burnt Hermes (Arbitrum)": "38986087443000000000",
     "Maia (Arbitrum)": "26851505046000000000"
+  },
+  "0x6783D71E75738c905b8E26318c4e7f0bBBF1C37f": {
+    "Wrapped Ether (Arbitrum)": "1878973066686999296"
   },
   "0x678b6b269674018c921De9Bc8CCc3F297344DF1B": {
     "Hermes (Arbitrum)": "224043365626000000000",
@@ -12099,7 +12114,8 @@
     "Hermes (Arbitrum)": "131684803864000000000"
   },
   "0x706fE752530979976268387010d3914F77070F16": {
-    "Burnt Hermes (Arbitrum)": "278784873610341426765314"
+    "Burnt Hermes (Arbitrum)": "278784873610341426765314",
+    "Wrapped Ether (Arbitrum)": "163011786224387680"
   },
   "0x707076fb70def4b49a4765A593E86cd65Cf2feF9": {
     "Hermes (Arbitrum)": "4177257315294000000000"
@@ -12139,7 +12155,8 @@
     "Maia (Arbitrum)": "3148820000000000"
   },
   "0x70e4AD9e81A06Ea3D6374F44454e82E53c94BcbD": {
-    "Hermes (Arbitrum)": "54740180050360175163116"
+    "Hermes (Arbitrum)": "54740180050360175163116",
+    "Wrapped Ether (Arbitrum)": "1000000000000000000"
   },
   "0x70ef83BD2224051F5f6Eda4295F8B391A6c48AcB": {
     "Burnt Hermes (Arbitrum)": "5294635921471000000000",
@@ -14204,6 +14221,7 @@
   "0x83C85B50110062c7821AF2AC245DcCFB68F6dEB7": {
     "Burnt Hermes (Arbitrum)": "10061913128205346259378",
     "Ara Wrapped Hermes (Metis)": "10081430837400515810",
+    "Wrapped Ether (Arbitrum)": "416733467366871936",
     "Maia (Arbitrum)": "52301382171843400"
   },
   "0x83cf51a12258848540E862D1ab8b2FE05518F716": {
@@ -15022,7 +15040,8 @@
   },
   "0x8bc0d035dc7d5FEdA9816435129D56bfd97215C0": {
     "Hermes (Arbitrum)": "1225000000000000000000000",
-    "Burnt Hermes (Arbitrum)": "719694230031974137061783"
+    "Burnt Hermes (Arbitrum)": "719694230031974137061783",
+    "Wrapped Ether (Arbitrum)": "14747462704816548"
   },
   "0x8bCf48766270EB59bC694ec0Ef0Aa968006aC9C9": {
     "Hermes (Arbitrum)": "49298925241000000000"
@@ -16139,6 +16158,7 @@
     "Burnt Hermes (Arbitrum)": "190527635627425647218561",
     "AraFi Token (Metis)": "6612881360712995757598",
     "Tether USD (BSC)": "85767001350911430455",
+    "Wrapped Ether (Arbitrum)": "2709174533158510080",
     "Tether USD (Metis)": "513745344",
     "USDCoin (Optimism)": "233250009",
     "Tether USD (Optimism)": "212867059",
@@ -16834,6 +16854,9 @@
   "0x9bCE3FCdd251a43EF7AA987F2d5Ebc0A29Ace7f1": {
     "Maia (Arbitrum)": "2591093912000000000"
   },
+  "0x9bD218e7eD14C5AEfA2f9F34977D0557085D4C6D": {
+    "Wrapped Ether (Arbitrum)": "6328724985719128"
+  },
   "0x9bD34a27ed836cc25C13e88E552EC7E59D522090": {
     "Maia (Arbitrum)": "849601698000000000"
   },
@@ -17060,7 +17083,8 @@
   "0x9dD3045BA0dfd6136e0ce38fC322De3557279178": {
     "Hermes (Arbitrum)": "222124677638317349033171",
     "Burnt Hermes (Arbitrum)": "11499753641785077622013",
-    "Vote Maia (Arbitrum)": "40007017577000000000"
+    "Vote Maia (Arbitrum)": "40007017577000000000",
+    "Wrapped Ether (Arbitrum)": "168227994158644032"
   },
   "0x9dD4c7936A29e1B68bCDcdc3D5b71da5e729e71d": {
     "Burnt Hermes (Arbitrum)": "296598982289909000000000",
@@ -18000,7 +18024,8 @@
   },
   "0xa5f93095c049798ce1C14F9105532c6E1c43C9e2": {
     "Hermes (Arbitrum)": "2405618290000000000000",
-    "AraFi Token (Metis)": "95148154416497307238"
+    "AraFi Token (Metis)": "95148154416497307238",
+    "Wrapped Ether (Arbitrum)": "72553109280005840"
   },
   "0xa5fd1fbb515A16Fa4fC74bF726410E4447e93329": {
     "Burnt Hermes (Arbitrum)": "98598500093000000000"
@@ -18584,7 +18609,8 @@
     "Hermes (Arbitrum)": "997972015118000000000"
   },
   "0xAAf0A174828a7067D679917d2Dd9c7647dBe857b": {
-    "Hermes (Arbitrum)": "529672304529706266770234"
+    "Hermes (Arbitrum)": "529672304529706266770234",
+    "Wrapped Ether (Arbitrum)": "180347856532225536"
   },
   "0xaB021d3C90E88A2C1fb70537b58417302e8d8aE0": {
     "Burnt Hermes (Arbitrum)": "465949129383000000000"
@@ -18977,6 +19003,9 @@
   },
   "0xaed142A76F74D500061cc7F0D8aa87078B43622a": {
     "Hermes (Arbitrum)": "1006547266157000000000"
+  },
+  "0xaed7Ae5288DB82dB2575De216eDC443bC8764a07": {
+    "Wrapped Ether (Arbitrum)": "100000000000000000"
   },
   "0xAeDa4088A73daA95642cDa172CaA5DE181719146": {
     "Hermes (Arbitrum)": "194833579110000000000"
@@ -20425,7 +20454,8 @@
   },
   "0xbbfE970dDA64D1b273a5d7428fa87B67729f9260": {
     "Hermes (Arbitrum)": "5978157512363888310001",
-    "AraFi Token (Metis)": "90080653814058996615"
+    "AraFi Token (Metis)": "90080653814058996615",
+    "Wrapped Ether (Arbitrum)": "26371961806292228"
   },
   "0xbc01158e565db87fD6528b4b5D68a10437d36CD6": {
     "Maia (Arbitrum)": "66510773000000000"
@@ -20957,6 +20987,7 @@
     "Maia (Arbitrum)": "109056722000000000"
   },
   "0xc0a12B169aD39cD94bA8a1F2068809A4636E383F": {
+    "Wrapped Ether (Arbitrum)": "74668334612863104",
     "Hermes (Arbitrum)": "62817605000000000"
   },
   "0xc0aBeA6Fda299bB097D850a5F3E719DAf24fdFfF": {
@@ -23659,6 +23690,9 @@
     "Hermes (Arbitrum)": "79458039120000000000",
     "Maia (Arbitrum)": "104417436000000000"
   },
+  "0xD89dCd226f1f902D060B4F5897EDc130D8a7b312": {
+    "Wrapped Ether (Arbitrum)": "1031637156181243648"
+  },
   "0xd8a2Cc4ee652625b02B8C2385705527458BDd9F8": {
     "Burnt Hermes (Arbitrum)": "3784877806550000000000",
     "Hermes (Arbitrum)": "2289990305000000000"
@@ -25714,6 +25748,9 @@
     "Hermes (Arbitrum)": "10000234231109000000000",
     "Maia (Arbitrum)": "290885524000000000"
   },
+  "0xEbCB2A1eEC49eDAfCa24801A84fC9Fcd5ecAb513": {
+    "Wrapped Ether (Arbitrum)": "60471450816803232"
+  },
   "0xEBcC98573c3cd9b5B61900D1304DA938B5036a0d": {
     "Burnt Hermes (Arbitrum)": "579872668051000000000"
   },
@@ -26059,7 +26096,7 @@
     "Vote Maia (Arbitrum)": "3962792205582817686807",
     "USDCoin (BSC)": "596152139010477873842",
     "AraFi Token (Metis)": "47326700901877954720",
-    "Wrapped Ether (Arbitrum)": "1385124464752475098",
+    "Wrapped Ether (Arbitrum)": "1573889087109721434",
     "Ara Wrapped Maia (Metis)": "1667579565"
   },
   "0xEf9fe765fe05838b932118d98a367839FE5afe38": {
@@ -27095,6 +27132,9 @@
   },
   "0xF851bbaad8F534b232dB4b64ddc172f83105AA96": {
     "Hermes (Arbitrum)": "100000000000000000"
+  },
+  "0xf851D3d46237Ec552A4C6e383a973115e781B1a5": {
+    "Wrapped Ether (Arbitrum)": "159151501410951008"
   },
   "0xf857c986C5E631fc2bF980637A1F9ca3078A05FA": {
     "Hermes (Arbitrum)": "654871416600000000000"
