@@ -25,25 +25,25 @@ If you sold, in order to revert the action, we need you to send back the WETH yo
 
 ### 0xCc74FC1C055Dc8996e1c33e47e3A7741691B9375
 
-Please send `0.028926989241388257` ETH or WETH to `0x00000000206ad3e31dfff979ccef06de72a9e027`. So we can send your `4972.83` sold HERMES tokens back to you.
+Please send `0.028926989241388257` ETH or WETH to `0xC26C6695aa3893b366ADB478475ABc9671e60047`. So we can send your `4972.83` sold HERMES tokens back to you.
 
 tx: TBD
 
 ### 0xB307D426A34A72A94B32BCa5c5f0c8B36440Fa80
 
-Please send `0.6494549344896502` ETH or WETH to `0x00000000206ad3e31dfff979ccef06de72a9e027`. So we can send your `157016.8573825969` sold HERMES tokens back to you.
+Please send `0.6494549344896502` ETH or WETH to `0xC26C6695aa3893b366ADB478475ABc9671e60047`. So we can send your `157016.8573825969` sold HERMES tokens back to you.
 
 tx: TBD
 
 ### 0xe29D8ac80c5dA2e8C23caf71f40af5d44E03c18D
 
-Please send `0.8762425216015506` ETH or WETH to `0x00000000206ad3e31dfff979ccef06de72a9e027`. So we can send your `154302.56115201567` sold HERMES tokens back to you.
+Please send `0.8762425216015506` ETH or WETH to `0xC26C6695aa3893b366ADB478475ABc9671e60047`. So we can send your `154302.56115201567` sold HERMES tokens back to you.
 
 tx: TBD
 
 ### 0x1e121993b4A8bC79D18A4C409dB84c100FFf25F5
 
-Please send `0.9492981395630838` ETH or WETH to `0x00000000206ad3e31dfff979ccef06de72a9e027`. So we can send your `230000` sold HERMES tokens back to you.
+Please send `0.9492981395630838` ETH or WETH to `0xC26C6695aa3893b366ADB478475ABc9671e60047`. So we can send your `230000` sold HERMES tokens back to you.
 
 tx: TBD
 
