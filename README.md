@@ -10,9 +10,8 @@ You are now able to find all balances corresponding to the upcoming redeployment
 - We won't be adding liquidity in behalf of anyone. So you need to add liquidity again if you wish. This applies to every kind LP: Uniswap V3, TALOS and Unified Liquidity Tokens (Balancer Composable Stable Pool LPs).
 - **Please read below to learn how reimbursement for trades after the first rescue transaction is being conducted.**
 
-**If you have on of the following addresses please read [the next section](#swaps-after-rescue-tx):**
+**If you have on of the following addresses please read [the next section ASAP](#swaps-after-rescue-tx):**
 
-- 0xCc74FC1C055Dc8996e1c33e47e3A7741691B9375
 - 0xB307D426A34A72A94B32BCa5c5f0c8B36440Fa80
 - 0xe29D8ac80c5dA2e8C23caf71f40af5d44E03c18D
 - 0x1e121993b4A8bC79D18A4C409dB84c100FFf25F5
@@ -27,7 +26,7 @@ If you sold, in order to revert the action, we need you to send back the WETH yo
 
 Please send `0.028926989241388257` ETH or WETH to `0xC26C6695aa3893b366ADB478475ABc9671e60047`. So we can send your `4972.83` sold HERMES tokens back to you.
 
-tx: TBD
+tx: 0x655350a79af2149fa2494e5cec16524d080101cd85dd790bdf87934bc3060649
 
 ### 0xB307D426A34A72A94B32BCa5c5f0c8B36440Fa80
 
