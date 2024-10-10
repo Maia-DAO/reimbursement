@@ -1,14 +1,64 @@
 # Reimbursement
 
+> **NO ONE from the team will ever send any links or ask for any private information. If you receive any messages like that, please block them and report them to us.**
+
+> **There is NO information and ZERO extra steps necessary for FULL reimbursement that are not included in this README. If your address is NOT ONE OF THE 16 LIST BELOW, you DO NOT HAVE TO DO ANYTHING. If you receive any messages like that, please block them and report them to us.**
+
 You are now able to find all balances corresponding to the upcoming redeployment distribution. Please check your balance, but before doing that, please read the following information:
 
 - bHERMES utility tokens won't be directly distributed but the whole bHERMES token will be instead. So you will be able to claim and delegate all of your utility tokens. If there is anyone in a situation where an OTC happened or used another AMM than uniswap V3 to exchange them, please let us know so we can try and solve that.
 - We won't be adding liquidity in behalf of anyone. So you need to add liquidity again if you wish. This applies to every kind LP: Uniswap V3, TALOS and Unified Liquidity Tokens (Balancer Composable Stable Pool LPs).
 - **Please read below to learn how reimbursement for trades after the first rescue transaction is being conducted.**
 
+**If you have on of the following addresses please read [the next section](#swaps-after-rescue-tx):**
+
+- 0xCc74FC1C055Dc8996e1c33e47e3A7741691B9375
+- 0xB307D426A34A72A94B32BCa5c5f0c8B36440Fa80
+- 0xe29D8ac80c5dA2e8C23caf71f40af5d44E03c18D
+- 0x1e121993b4A8bC79D18A4C409dB84c100FFf25F5
+
+## Swaps after rescue tx
+
+If you are one of the following addresses that had [net sells](./ecosystemSells.json), we want to revert your trades that happened after the rescue transaction so we can revert your losses. Please follow the instructions for your address or [reach out to us](#contact-us) so we can solve this issue.
+
+If you sold, in order to revert the action, we need you to send back the WETH you received from the swap so we can send you back the original tokens you sold. If you don't have the WETH anymore, please reach out to us so we can try to find another solution.
+
+### 0xCc74FC1C055Dc8996e1c33e47e3A7741691B9375
+
+Please send `0.028926989241388257` ETH or WETH to `0x00000000206ad3e31dfff979ccef06de72a9e027`. So we can send your `4972.83` sold HERMES tokens back to you.
+
+tx: TBD
+
+### 0xB307D426A34A72A94B32BCa5c5f0c8B36440Fa80
+
+Please send `0.6494549344896502` ETH or WETH to `0x00000000206ad3e31dfff979ccef06de72a9e027`. So we can send your `157016.8573825969` sold HERMES tokens back to you.
+
+tx: TBD
+
+### 0xe29D8ac80c5dA2e8C23caf71f40af5d44E03c18D
+
+Please send `0.8762425216015506` ETH or WETH to `0x00000000206ad3e31dfff979ccef06de72a9e027`. So we can send your `154302.56115201567` sold HERMES tokens back to you.
+
+tx: TBD
+
+### 0x1e121993b4A8bC79D18A4C409dB84c100FFf25F5
+
+Please send `0.9492981395630838` ETH or WETH to `0x00000000206ad3e31dfff979ccef06de72a9e027`. So we can send your `230000` sold HERMES tokens back to you.
+
+tx: TBD
+
+### Ecosystem Buys and Sells
+
+Amounts related to these swaps have been gathered seperately and can be verified in the following file:
+
+- Buys: [ecosystemBuys.json](./ecosystemBuys.json)
+- Sells: [ecosystemSells.json](./ecosystemSells.json)
+
+A total of 9.14 ETH were spent acquiring/buying ecosystem tokens, this value will be returned to buyers and the ecosystem tokens bought aren't included in the reimbursement balance.
+
 ### Selling after the rescue, Unknown Smart Contracts and Arbitrageurs
 
-There was a list of addresses that net sold after the rescue blocks. Because some addresses tried to take advantage of this situation. We removed them from the reimbursement list. **If your address is included in the following list, PLEASE REACH OUT ASAP** to us via a discord ticket or create an issue in this github repository.
+There was a list of addresses that net sold after the rescue blocks. Because some addresses tried to take advantage of this situation. We removed them from the reimbursement list. **If your address is included in the following list, [PLEASE REACH OUT ASAP](#contact-us)**.
 
 - 0x00000000CfE3369BcdBC76071bA6e0A4e0Fe98Bd
 - 0x277CcbFc3Cca490E63F60F836758ce5823944518
@@ -22,17 +72,6 @@ There was a list of addresses that net sold after the rescue blocks. Because som
 - 0xD2584fb1f05f3130cdffF35928BC2d42afa59972
 - 0xE37e799D5077682FA0a244D46E5649F71457BD09
 - 0xf238d4353246948eCDc3F3252ae939FE5234E145
-
-## Swaps after rescue tx
-
-Amounts related to these swaps have been gathered seperately and can be verified in the following file:
-
-- Buys: [ecosystemBuys.json](./ecosystemBuys.json)
-- Sells: [ecosystemSells.json](./ecosystemSells.json)
-
-A total of 9.14 ETH were spent acquiring/buying ecosystem tokens, this value will be returned to buyers and the ecosystem tokens aren't including reimbursement balance.
-
-If you sold, in order to revert the action, we need you to send back the WETH you received from the swap so we can send you back the original tokens you sold. If you don't have the WETH anymore, please reach out to us so we can try to find another solution.
 
 ## Balances
 
@@ -61,3 +100,14 @@ This is a list of the sum of all token balances to distribute to users:
 - With decimals: [tokenTotalsDecimals.json](./tokenTotalsDecimals.json)
 - With names: [tokenTotalsWithNames.json](./tokenTotalsWithNames.json)
 - Raw: [tokenTotals.json](./tokenTotals.json)
+
+## Contact us
+
+If you have any questions or need help, please reach out to us via a discord ticket or create an issue in this github repository.
+
+- [Discord](https://discord.gg/maiadao)
+- [Create issue in this repo](https://github.com/Maia-DAO/reimbursement/issues/new)
+
+If you want to reach out to us via another form, you can send a tx to `0x00000000206ad3e31dfff979ccef06de72a9e027` with UTF-8 encoded data. We will try to reach out to you as soon as possible. 
+
+If you are in contact with someone from the team, either through discord, telegram or twitter. You can also reach out to them directly. **Just please remember NO ONE from the team will ever send you any links or ask you for any private information. There is NO information and ZERO extra steps necessary for full reimbursement that are not included in this README. If you receive any messages like that, please block them and report them to us.**
