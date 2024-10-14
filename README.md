@@ -44,7 +44,7 @@ tx: TBD
 
 Please send `0.9492981395630838` ETH or WETH to `0xC26C6695aa3893b366ADB478475ABc9671e60047`. So we can send your `230000` sold HERMES tokens back to you.
 
-tx: TBD
+tx: 0x22076a636520d5da37594044c43dce51ffa493347504459b6ca8ee0795aecb7c
 
 ### Ecosystem Buys and Sells
 
